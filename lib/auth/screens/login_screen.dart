@@ -81,7 +81,7 @@ class _LoginScreenState extends State<LoginScreen> {
             children: [
               //flex box 0
               Flexible(flex: 2, child: Container()),
-              Image.asset('logo.png'),
+              Image.asset('assets/logo.png'),
               //flex box 1
               Flexible(flex: 2, child: Container()),
 

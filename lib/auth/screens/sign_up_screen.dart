@@ -108,7 +108,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                   //Flexible(flex: 1, child: Container()),
 
                   //Logo
-                  Image.asset('logo.png'),
+                  Image.asset('assets/logo.png'),
                   const SizedBox(height: 64),
 
                   // name
